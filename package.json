@@ -1,6 +1,7 @@
 {
   "name": "react-ts",
   "version": "0.0.0",
+  "homepage": "https://dhruday.github.io/Expense-Tracker/",
   "private": true,
   "dependencies": {
     "@types/react": "^18.0.8",
